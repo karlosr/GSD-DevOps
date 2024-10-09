@@ -13,11 +13,16 @@ Requisitos:
 
 Código:
 
+    https://github.com/karlosr/GSD-DevOps.git
+
 
 
 
 Ejecución:
+
     Dentro de la carpeta GsdDevOps ejecutar la siguiente instrucción en línea de comandos (tomando en consideración los requisitos indicados):
+
         java -jar target\GsdDevOps-1.0-SNAPSHOT.jar
+
 
     la salida deberá ser como se indica en el documento.
