@@ -13,7 +13,7 @@ Requisitos:
 
 Código:
 
-    https://github.com/karlosr/GSD-DevOps.git
+    https://github.com/karlosr/GSD-DevOps.git                          Branch: feature/parte1                          TAG: v1.0.0    o    v1.0.1
 
 
 
